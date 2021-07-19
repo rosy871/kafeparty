@@ -1,0 +1,44 @@
+
+header img{
+    height:30vw;
+    width: 100%;
+}
+
+#kaffemaskiner img{
+  height:5vw;
+  width: 5vw;
+}
+
+#popular img{
+  height: 40%;
+  width: 60%
+
+}
+
+#vd img{
+  height: 30vw;
+  width: 30vw;
+}
+
+#hr img{
+  height:20vw;
+  width: 20vw;
+}
+
+
+
+
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 5px;
+  width: 100%;
+  background-color: rgb(189, 84, 24);
+  color: white;
+  text-align: center;
+
+}
+#bottom{
+    height: 100px;
+}
