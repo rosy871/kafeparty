@@ -4,6 +4,10 @@ header img{
     width: 100%;
 }
 
+.bg-light{
+  background-color:rgba(165, 69, 14, 0.082) !important
+}
+
 #kaffemaskiner img{
   height:5vw;
   width: 5vw;
@@ -32,7 +36,7 @@ header img{
 footer{
   position: fixed;
   left: 0;
-  bottom: 5px;
+  bottom: 1px;
   width: 100%;
   background-color: rgb(189, 84, 24);
   color: white;
